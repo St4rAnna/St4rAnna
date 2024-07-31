@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there :P 
 
-<!--
-**St4rAnna/St4rAnna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+★- Alura student
 
-Here are some ideas to get you started:
+★- Me desenvolvendo na tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+★- Compartilhamento de projetos lecionados pela Alura
+
+ᓚᘏᗢ
+
+★- Once said Clarice Lispector; ''Já que sou, o jeito é ser''
+
+![](https://media.tenor.com/olr0tUuWI7gAAAAi/cuh-cat.gif)
